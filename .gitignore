@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.pt
+*.pth
+.env
+.venv/
+venv/
