@@ -1,0 +1,7 @@
+torch         # PyTorch asosiy kutubxona
+torchvision   # agar rasm ishlatilsa (hozir shart emas, lekin ko‘pincha birga keladi)
+numpy         # array va matematik operatsiyalar uchun
+pandas        # agar ma’lumotlarni CSV/JSON bilan ishlash kerak bo‘lsa
+tqdm          # progress bar uchun (training jarayonida foydali)
+scikit-learn   # train/validation split yoki metriclar uchun
+regex     # matnlarni tozalash va regex operatsiyalari
